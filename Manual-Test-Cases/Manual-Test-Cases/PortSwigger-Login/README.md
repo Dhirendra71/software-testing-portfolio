@@ -15,4 +15,4 @@ This folder contains manual test cases written for the PortSwigger login functio
 - Basic security-oriented scenarios
 
 ## Application
-PortSwigger Web Security Academy – Login functionality (public practice platform)
+PortSwigger Web Security Academy – Login functionality
