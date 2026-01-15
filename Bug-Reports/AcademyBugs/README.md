@@ -12,7 +12,6 @@ Artifacts included:
 
 Sample defects reported:
 - Website crash while posting a comment
-- UI and functional issues (if you add more later)
 
 Tools used:
 - Google Chrome
