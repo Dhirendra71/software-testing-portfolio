@@ -17,13 +17,11 @@ Along with software testing, I have a background in networking and cybersecurity
 
 -Develop a blend of QA + security testing mindset
 
-## Current Test Coverage
+## Testing Progress
 
-Login module (PortSwigger)
+Saucedemo test cases(completed)
 
-Signup module (in progress)
-
-Forgot password flow (planned)
+API testing - Postman(learning)
 
 ### Test cases include:
 
